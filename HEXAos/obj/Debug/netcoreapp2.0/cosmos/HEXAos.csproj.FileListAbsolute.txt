@@ -1,0 +1,8 @@
+C:\Users\Krzysztof Stefańczyk\source\repos\HEXAos\bin\Debug\netcoreapp2.0\cosmos\HEXAos.deps.json
+C:\Users\Krzysztof Stefańczyk\source\repos\HEXAos\bin\Debug\netcoreapp2.0\cosmos\HEXAos.dll
+C:\Users\Krzysztof Stefańczyk\source\repos\HEXAos\bin\Debug\netcoreapp2.0\cosmos\HEXAos.pdb
+C:\Users\Krzysztof Stefańczyk\source\repos\HEXAos\obj\Debug\netcoreapp2.0\cosmos\HEXAos.AssemblyInfoInputs.cache
+C:\Users\Krzysztof Stefańczyk\source\repos\HEXAos\obj\Debug\netcoreapp2.0\cosmos\HEXAos.AssemblyInfo.cs
+C:\Users\Krzysztof Stefańczyk\source\repos\HEXAos\obj\Debug\netcoreapp2.0\cosmos\HEXAos.dll
+C:\Users\Krzysztof Stefańczyk\source\repos\HEXAos\obj\Debug\netcoreapp2.0\cosmos\HEXAos.pdb
+C:\Users\Krzysztof Stefańczyk\source\repos\HEXAos\obj\Debug\netcoreapp2.0\cosmos\HEXAos.csprojAssemblyReference.cache
