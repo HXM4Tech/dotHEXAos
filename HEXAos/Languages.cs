@@ -147,7 +147,7 @@ calc - kalkulator
                         case "RSOD-version":
                             return "wersja HEXAos: ";
                         case "RSOD-press-reboot":
-                            return "Nacisnij dowaolny klawisz, aby zrestartowac komputer...";
+                            return "Nacisnij dowolny klawisz, aby zrestartowac komputer...";
                         case "dir-vol-name":
                             return "Nazwa dysku 0 to ";
                         case "dir-of":
@@ -157,7 +157,7 @@ calc - kalkulator
                         case "dir-bytes-free":
                             return " bajtow wolnych";
                         case "cd-no-parent":
-                            return "Ten katalog nie ma rodzica!\n";
+                            return "Brak katalogu nadrzednego!\n";
                         case "cd-dir-not-found":
                             return "Nie znaleziono katalogu!\n";
                         case "cat-file-not-found":
@@ -173,7 +173,7 @@ calc - kalkulator
                         case "rm-not-exists":
                             return "Nie znaleziono pliku!\n";
                         case "arg-required":
-                            return "Ta komenda wymaga argunetu!\n";
+                            return "Ta komenda wymaga argumentu!\n";
                         case "sysinfo-os-name":
                             return "Nazwa sys.:   HEXAos";
                         case "sysinfo-os-ver":
